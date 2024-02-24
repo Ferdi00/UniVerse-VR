@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelUserStore">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>Library/PackageCache/com.readyplayerme.core@527dab7a31</Path>
+      <Path>Library/PackageCache/com.readyplayerme.webview@f400bdacb0</Path>
+      <Path>Library/PackageCache/com.unity.burst@1.8.11</Path>
+      <Path>Library/PackageCache/com.unity.cloud.gltfast@6.0.1</Path>
+      <Path>Library/PackageCache/com.unity.collab-proxy@2.2.0</Path>
+      <Path>Library/PackageCache/com.unity.ext.nunit@1.0.6</Path>
+      <Path>Library/PackageCache/com.unity.ide.rider@3.0.27</Path>
+      <Path>Library/PackageCache/com.unity.ide.visualstudio@2.0.22</Path>
+      <Path>Library/PackageCache/com.unity.ide.vscode@1.2.5</Path>
+      <Path>Library/PackageCache/com.unity.inputsystem@1.7.0</Path>
+      <Path>Library/PackageCache/com.unity.mathematics@1.3.1</Path>
+      <Path>Library/PackageCache/com.unity.meshopt.decompress@0.1.0-preview.5</Path>
+      <Path>Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1</Path>
+      <Path>Library/PackageCache/com.unity.searcher@4.9.1</Path>
+      <Path>Library/PackageCache/com.unity.test-framework@1.1.33</Path>
+      <Path>Library/PackageCache/com.unity.textmeshpro@3.0.6</Path>
+      <Path>Library/PackageCache/com.unity.timeline@1.6.5</Path>
+      <Path>Library/PackageCache/com.unity.visualscripting@1.9.1</Path>
+      <Path>Library/PackageCache/com.unity.xr.core-utils@2.2.3</Path>
+      <Path>Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.2</Path>
+      <Path>Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10</Path>
+      <Path>Library/PackageCache/com.unity.xr.management@4.4.1</Path>
+      <Path>Library/PackageCache/com.unity.xr.openxr@1.9.1</Path>
+      <Path>Packages</Path>
+      <Path>ProjectSettings</Path>
+    </explicitIncludes>
+    <explicitExcludes>
+      <Path>.idea</Path>
+      <Path>Library</Path>
+      <Path>Logs</Path>
+      <Path>Temp</Path>
+      <Path>UserSettings</Path>
+      <Path>obj</Path>
+    </explicitExcludes>
+  </component>
+</project>
