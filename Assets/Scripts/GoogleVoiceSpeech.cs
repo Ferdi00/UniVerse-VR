@@ -147,7 +147,7 @@ public class GoogleVoiceSpeech : MonoBehaviour
 		Directory.CreateDirectory(Path.GetDirectoryName(filePath));
 
 		//Google API Key
-		string apiURL = "https://speech.googleapis.com/v1/speech:recognize?&key=AIzaSyA5xxBfufuoc3xQb_KsHHm9uCAkYIQBfpA";
+		string apiURL = "https://speech.googleapis.com/v1/speech:recognize?&key=";
 
 		string Response = HttpUploadFile(apiURL, filePath, "file", "audio/wav; rate=44100");
 		return JsonConvert.DeserializeObject<RootObject>(Response);

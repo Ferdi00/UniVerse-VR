@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TextToSpeech : MonoBehaviour
 {
-    private string apiKey = "AIzaSyCA9_vnteeJwLkvzN1b9TdTHPSKncCcjuQ";
+    private string apiKey = "";
 
     private Action<string> _actionRequestReceived;
     private Action<BadRequestData> _errorReceived;
